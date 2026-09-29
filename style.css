@@ -18,6 +18,22 @@ h1 {
 }
 
 #logo-img {
-  width: 400;
-  height: 400;
+  width: 100px;
+  height: 150px;
+}
+
+.product-cart {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  
 }
