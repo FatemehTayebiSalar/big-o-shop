@@ -1,1 +1,1 @@
-let x: number = "a";
+export const x: number = 1;
